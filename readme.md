@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant&weight=900&size=30&pause=1000&color=289900&background=000000&random=false&width=435&lines=Hello!+Hola!+%E4%BD%A0%E5%A5%BD!;Welcome+to+my+GitHub+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant&weight=900&size=30&pause=1000&color=289900&background=050404&random=false&width=435&lines=Hello!+Hola!+%E4%BD%A0%E5%A5%BD!;Welcome+to+my+GitHub+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ## Hi there 👋
 
