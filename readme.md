@@ -41,3 +41,5 @@ I'm using Python, SQL, and R
 I love cats.
 
 <!--
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Va11es&theme=dark)](https://git.io/streak-stats)
