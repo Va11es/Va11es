@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=990000&background=FFCC0000&random=false&width=435&lines=Welcome+to+Valles+Visualization)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 I'm using Python, SQL, and R 
