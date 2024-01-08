@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant&weight=900&size=30&pause=1000&color=289900&background=050404&random=false&width=435&lines=Hello!+Hola!+%E4%BD%A0%E5%A5%BD!;Welcome+to+my+GitHub+%F0%9F%92%BB)](https://git.io/typing-svg)
 
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me</h1>
+
 ---
 
 Professional with experience in data analysis, visualization, and presentation. Proficient in Python, SQL, and Tableau for trend identification and anomaly detection. Adept in communication, time management, and creating insightful presentations. Demonstrated leadership in project management and innovation.
