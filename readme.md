@@ -40,6 +40,9 @@ I'm using Python, SQL, and R
 
 I love cats.
 
+### 🤡 Random Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
 <!--
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Va11es&theme=dark)](https://git.io/streak-stats)
