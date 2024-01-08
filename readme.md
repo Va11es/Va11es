@@ -6,7 +6,7 @@
 
 I'm using Python, SQL, and R 
 
-  <img align="right" alt="Coding" width="400" src="https://datasciencedojo.com/wp-content/uploads/52.jpg">
+  <img align="right" alt="Coding" width="400" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png">
 
 **I love working with**
 
