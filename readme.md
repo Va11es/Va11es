@@ -6,6 +6,8 @@
 
 I'm using Python, SQL, and R 
 
+  <img align="right" alt="Coding" width="400" src="https://datasciencedojo.com/wp-content/uploads/52.jpg">
+
 **I love working with**
 
 <div display="flex">
