@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/93/69/56/93695684888489a616f0f5349ae3bb95.gif)](https://github.com/Va11es)
+[![MasterHead](https://wallpapercave.com/wp/wp2521317.jpg)](https://github.com/Va11es)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
