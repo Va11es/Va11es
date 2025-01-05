@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/27/64/8d/27648d5f3bc54e535b0bc8a23e5570bc.jpg)](https://github.com/Va11es)
+[![MasterHead](https://i.pinimg.com/originals/93/69/56/93695684888489a616f0f5349ae3bb95.gif)](https://github.com/Va11es)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
@@ -10,7 +10,7 @@ Finance Analyst with experience in data analysis, visualization, and presentatio
 
 ---
 
-  <img align="right" alt="Coding" width="400" src="https://44.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/aa44282323a3c36a-66/s500x750_f1/8d89ad1a17046dcf119dd8d6f69129e4166e5a3f.gif">
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif">
 
 ### 
 
