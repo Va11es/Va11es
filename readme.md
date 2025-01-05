@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Va11es/project/blob/main/bustown.png)](https://github.com/Va11es)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me</h1>
-
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! My name is Valles!</h1>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 ---
 
 Finance Analyst with experience in data analysis, visualization, and presentation. Proficient in Python, SQL, and Tableau for trend identification and anomaly detection. Adept in communication, time management, and creating insightful presentations. Demonstrated leadership in project management and innovation.
@@ -41,6 +41,9 @@ I love cats.
 ### 🤡 Random Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
 <!--
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Va11es&theme=dark)](https://git.io/streak-stats)
