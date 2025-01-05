@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/996403872883019839/1193786333903200316/github.png?ex=65adfb29&is=659b8629&hm=2e432ca04edfbfb5073a26fe0efa4eeb8847ec6bb79505dcb4613bd356168ec1&)](https://github.com/Va11es)
+[![MasterHead](https://images.igdb.com/igdb/image/upload/t_1080p/sc83e6.png)](https://github.com/Va11es)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant&weight=900&size=30&pause=1000&color=289900&background=050404&random=false&width=435&lines=Hello!+Hola!+%E4%BD%A0%E5%A5%BD!;Welcome+to+my+GitHub+%F0%9F%92%BB)](https://git.io/typing-svg)
 
