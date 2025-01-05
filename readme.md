@@ -1,7 +1,9 @@
 [![MasterHead](https://github.com/Va11es/project/blob/main/bustown.png)](https://github.com/Va11es)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! My name is Valles!</h1>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Professional Summary!</h1>
+
 ---
 
 Finance Analyst with experience in data analysis, visualization, and presentation. Proficient in Python, SQL, and Tableau for trend identification and anomaly detection. Adept in communication, time management, and creating insightful presentations. Demonstrated leadership in project management and innovation.
