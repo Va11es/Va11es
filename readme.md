@@ -7,7 +7,7 @@
 
 ---
 
-Professional with experience in data analysis, visualization, and presentation. Proficient in Python, SQL, and Tableau for trend identification and anomaly detection. Adept in communication, time management, and creating insightful presentations. Demonstrated leadership in project management and innovation.
+Finance Analyst with experience in data analysis, visualization, and presentation. Proficient in Python, SQL, and Tableau for trend identification and anomaly detection. Adept in communication, time management, and creating insightful presentations. Demonstrated leadership in project management and innovation.
 
 ---
 
