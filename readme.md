@@ -1,6 +1,6 @@
 <h1><img src="https://github.com/Va11es/project/blob/main/Huckle2nobg.png" width="100"/> About Me!</h1>
 
-As a Financial Analyst, I bring a diverse skill set in data analysis, visualization, and presentation. I have a strong passion for managing projects and optimizing processes. Growing up, my dream was to be a movie director—driven by a desire to make a lasting impact through art. Now, I've realized that I can create impactful visual narratives using data, shaping decisions that matter to both business and the public. I thrive in environments surrounded by intrapreneurs who embrace the latest innovations and platforms, eager to drive the next wave of cutting-edge opportunities in the industry
+As a Financial Analyst, I bring a diverse skill set in data analysis, visualization, and presentation. I have a strong passion for managing projects and optimizing processes. Growing up, my dream was to be a movie director because I was driven by a desire to make a lasting impact through art. Now, I've realized that I can create impactful visual narratives using data, shaping decisions that matter to both business and the public. I thrive in environments surrounded by intrapreneurs who embrace the latest innovations and platforms, eager to drive the next wave of cutting-edge opportunities in the industry
 
 ## Certifications & Clearances
 
